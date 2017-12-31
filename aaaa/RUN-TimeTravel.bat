@@ -1,0 +1,1 @@
+cpuminer-gw64-corei7 —algo=x11 -o stratum+tcp://x11.eobot.com:5555 -u eobot.1563976 -p x
